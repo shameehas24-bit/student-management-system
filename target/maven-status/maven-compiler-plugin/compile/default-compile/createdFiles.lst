@@ -1,0 +1,7 @@
+com/student/entity/Student.class
+com/student/StudentApplication.class
+com/student/repository/MarksRepository.class
+com/student/controller/StudentController.class
+com/student/entity/Marks.class
+com/student/repository/StudentRepository.class
+com/student/service/StudentService.class

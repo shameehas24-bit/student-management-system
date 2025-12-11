@@ -1,0 +1,7 @@
+/workspaces/student-management-system/src/main/java/com/student/repository/StudentRepository.java
+/workspaces/student-management-system/src/main/java/com/student/service/StudentService.java
+/workspaces/student-management-system/src/main/java/com/student/entity/Marks.java
+/workspaces/student-management-system/src/main/java/com/student/StudentApplication.java
+/workspaces/student-management-system/src/main/java/com/student/controller/StudentController.java
+/workspaces/student-management-system/src/main/java/com/student/entity/Student.java
+/workspaces/student-management-system/src/main/java/com/student/repository/MarksRepository.java
